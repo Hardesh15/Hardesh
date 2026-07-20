@@ -29,11 +29,17 @@ Currently expanding my expertise into Azure, AI, and Enterprise Solution Archite
 ### 📊 Digital Month End (DME)
 ---
 
-### 📞 Sytner Contact Centre Bookings
+### 📞 Contact Centre Bookings
 ---
 
 ### 🚗 AT Chery & Geely Stock Automation
 ---
+
+### 🔄 IT Change Management System
+---
+
+### 💰 Expense Management App *(In Progress)*
+Currently developing an enterprise Expense Management application using Power Apps code app to simplify expense submission, approvals, and reporting.
 
 ## 🌱 Currently Learning
 
