@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=220&section=header&text=Berlin&fontSize=45&fontColor=ffffff&desc=Enterprise%20Solutions%20Engineer%20|%20Power%20Platform%20|%20Azure%20%26%20AI&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=220&section=header&text=Hardesh15&fontSize=45&fontColor=ffffff&desc=Enterprise%20Solutions%20Engineer%20|%20Power%20Platform%20|%20Azure%20%26%20AI&descSize=18&descAlignY=70" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hardesh</h1>
@@ -108,12 +108,12 @@ Currently developing an enterprise Expense Management application using Power Ap
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hardesh15&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardesh15&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user= Hardesh15&theme=transparent&hide_border=true"/>
 </p>
 
 ---
