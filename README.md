@@ -14,8 +14,8 @@ Currently expanding my expertise into Azure, AI, and Enterprise Solution Archite
 - Power Automate
 - SharePoint
 - REST APIs
-- .NET
-- SQL Server
+- React/JS/Typescript
+- SQL
 - Azure (Learning)
 - Azure AI (Learning)
 
