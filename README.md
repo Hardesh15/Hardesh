@@ -13,7 +13,7 @@ Enterprise Solutions Engineer | Microsoft Power Platform | Azure | AI
 </h3>
 
 <p align="center">
-Enterprise Solutions Engineer with <strong>4+ years</strong> of experience designing and delivering enterprise business applications using Microsoft Power Platform. Passionate about building scalable business solutions while expanding expertise in Microsoft Azure, Artificial Intelligence, and Enterprise Solution Architecture.
+Enterprise Solutions Engineer with <strong>10+ years</strong> of experience designing and delivering enterprise business applications using Microsoft Power Platform. Passionate about building scalable business solutions while expanding expertise in Microsoft Azure, Artificial Intelligence, and Enterprise Solution Architecture.
 </p>
 
 <p align="center">
@@ -152,23 +152,6 @@ Currently developing an enterprise Expense Management application using **Power 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hardesh15&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardesh15&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hardesh15&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🎯 Career Goal
 
